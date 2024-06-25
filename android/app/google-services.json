@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063459613275",
+    "project_id": "ai-chat-fcae6",
+    "storage_bucket": "ai-chat-fcae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063459613275:android:a852985a26b5cf5ecc6d7e",
+        "android_client_info": {
+          "package_name": "com.example.ai_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkwWkB8lKKgdC1dZ217lDbg8EYjKn5Huw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
